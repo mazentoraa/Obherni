@@ -13,7 +13,7 @@ export default function Navbar() {
         <Link to='/'>
             <div className='nav-item'>
             Home
-            <img src="src/img/explore-icon.png" width="20px" alt="exp-icon"/>
+            <img src="src/img/gen-icon.png" width="20px" alt="exp-icon"/>
             </div>
         </Link>
         <Link to='/generate'>
