@@ -20,7 +20,7 @@ A simple and reusable **React-based web interface** for generating the topic of 
 
 | Main Interface | Example Output |
 |----------------|----------------|
-| ![Home](screenshots/homepage.png) | ![Output](screenshots/generatepage.png) |
+| ![Home](src/screenshots/homepage.png) | ![Output](src/screenshots/generatepage.png) |
 
 ---
 
